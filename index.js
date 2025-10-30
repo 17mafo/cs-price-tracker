@@ -48,15 +48,11 @@ if (process.argv[4] && process.argv[4].length <= 5) {
     loginOptions.twoFactorCode = SteamTotp.getAuthCode(process.argv[4]);
 }
 
-community.login(
-    {
-        loginOptions
-    },
-    async (err) => {
-        if (err) {
-            console.log("login:", err);
-            return;
-        }
+community.login(loginOptions, async (err) => {
+  if (err) {
+    console.log("login:", err);
+    return;
+  }
 
         try {
             console.log("Loading items...");
