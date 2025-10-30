@@ -1,6 +1,7 @@
 const SteamCommunity = require("steamcommunity");
 const fs = require("fs");
 const sha1 = require("js-sha1");
+const SteamTotp = require("steam-totp");
 const dir = `./static`;
 const dirPrices = `./static/prices`;
 const dirPricehistory = `./static/pricehistory`;
@@ -36,12 +37,20 @@ if (!fs.existsSync(dirPricehistory)) {
 let community = new SteamCommunity();
 
 console.log("Logging into Steam community....");
+const loginOptions = {
+    accountName: process.argv[2],
+    password: process.argv[3],
+    disableMobile: true
+};
+
+// Only include twoFactorCode if argv[4] exists
+if (process.argv[4].length <= 5) {
+    loginOptions.twoFactorCode = SteamTotp.getAuthCode(process.argv[4]);
+}
 
 community.login(
     {
-        accountName: process.argv[2],
-        password: process.argv[3],
-        disableMobile: true,
+        loginOptions
     },
     async (err) => {
         if (err) {
