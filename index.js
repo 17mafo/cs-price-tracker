@@ -44,7 +44,7 @@ const loginOptions = {
 };
 
 // Only include twoFactorCode if argv[4] exists
-if (process.argv[4].length <= 5) {
+if (process.argv[4] && process.argv[4].length <= 5) {
     loginOptions.twoFactorCode = SteamTotp.getAuthCode(process.argv[4]);
 }
 
