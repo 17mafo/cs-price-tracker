@@ -16970,47 +16970,47 @@
     },
     "Five-SeveN | Contractor (Battle-Scarred)": {
         "steam": {
-            "last_24h": null,
-            "last_7d": 5.091,
-            "last_30d": 3.6671702127659587,
-            "last_90d": 3.3482280701754386,
-            "last_ever": 5.091
+            "last_24h": 3.5915,
+            "last_7d": 3.3173749999999997,
+            "last_30d": 3.998333333333333,
+            "last_90d": 3.314,
+            "last_ever": 4.111
         }
     },
     "Five-SeveN | Contractor (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 11.83275,
-            "last_90d": 14.399958333333332,
-            "last_ever": 1.699
+            "last_7d": 13.192666666666668,
+            "last_30d": 10.5546,
+            "last_90d": 14.133880000000003,
+            "last_ever": 11.569
         }
     },
     "Five-SeveN | Contractor (Field-Tested)": {
         "steam": {
-            "last_24h": 4.188,
-            "last_7d": 3.814352941176471,
-            "last_30d": 3.4906158940397343,
-            "last_90d": 3.2712469135802458,
-            "last_ever": 4.188
+            "last_24h": 3.785,
+            "last_7d": 3.9538421052631576,
+            "last_30d": 3.7928235294117636,
+            "last_90d": 3.29384900990099,
+            "last_ever": 3.83
         }
     },
     "Five-SeveN | Contractor (Minimal Wear)": {
         "steam": {
-            "last_24h": 5.17,
-            "last_7d": 4.833749999999999,
-            "last_30d": 4.306070175438596,
-            "last_90d": 3.85621649484536,
-            "last_ever": 5.17
+            "last_24h": null,
+            "last_7d": 5.755,
+            "last_30d": 4.453458333333333,
+            "last_90d": 3.8879065934065924,
+            "last_ever": 5.755
         }
     },
     "Five-SeveN | Contractor (Well-Worn)": {
         "steam": {
-            "last_24h": 4.206,
-            "last_7d": 3.976375,
-            "last_30d": 3.475666666666666,
-            "last_90d": 3.322242424242425,
-            "last_ever": 4.206
+            "last_24h": null,
+            "last_7d": null,
+            "last_30d": 3.8038181818181815,
+            "last_90d": 3.3359545454545465,
+            "last_ever": 4.53
         }
     },
     "Five-SeveN | Coolant (Battle-Scarred)": {
@@ -17538,46 +17538,46 @@
     "Five-SeveN | Jungle (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 2.2716666666666665,
-            "last_30d": 2.3336,
-            "last_90d": 2.2317802197802195,
-            "last_ever": 2.288
+            "last_7d": 1.9788000000000001,
+            "last_30d": 2.2865652173913045,
+            "last_90d": 2.203075268817204,
+            "last_ever": 2.182
         }
     },
     "Five-SeveN | Jungle (Factory New)": {
         "steam": {
             "last_24h": null,
             "last_7d": null,
-            "last_30d": 67.42200000000001,
-            "last_90d": 57.11778571428571,
+            "last_30d": 66.6355,
+            "last_90d": 61.17245454545454,
             "last_ever": 63.281
         }
     },
     "Five-SeveN | Jungle (Field-Tested)": {
         "steam": {
-            "last_24h": 2.5066666666666664,
-            "last_7d": 2.537026315789474,
-            "last_30d": 2.5327168949771677,
-            "last_90d": 2.351024866785078,
-            "last_ever": 2.48
+            "last_24h": 2.1023333333333336,
+            "last_7d": 2.708485714285714,
+            "last_30d": 2.6252513089005234,
+            "last_90d": 2.3876825396825407,
+            "last_ever": 1.187
         }
     },
     "Five-SeveN | Jungle (Minimal Wear)": {
         "steam": {
-            "last_24h": 9.763,
-            "last_7d": 9.347666666666667,
-            "last_30d": 10.566059701492536,
-            "last_90d": 8.361566265060244,
-            "last_ever": 9.763
+            "last_24h": null,
+            "last_7d": 10.511181818181818,
+            "last_30d": 9.962320754716984,
+            "last_90d": 8.516919678714856,
+            "last_ever": 10.883
         }
     },
     "Five-SeveN | Jungle (Well-Worn)": {
         "steam": {
-            "last_24h": 2.379,
-            "last_7d": 2.1972500000000004,
-            "last_30d": 2.4219259259259256,
-            "last_90d": 2.708588235294118,
-            "last_ever": 2.401
+            "last_24h": 2.702,
+            "last_7d": 2.5193333333333334,
+            "last_30d": 2.4095999999999997,
+            "last_90d": 2.65372,
+            "last_ever": 2.702
         }
     },
     "Five-SeveN | Kami (Factory New)": {
@@ -17781,46 +17781,46 @@
     "Five-SeveN | Nitro (Battle-Scarred)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 50.07,
-            "last_30d": 50.99816666666666,
-            "last_90d": 56.704000000000015,
+            "last_7d": null,
+            "last_30d": 49.97,
+            "last_90d": 56.63025000000001,
             "last_ever": 50.07
         }
     },
     "Five-SeveN | Nitro (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 57.745000000000005,
-            "last_90d": 72.10747058823529,
-            "last_ever": 61
+            "last_7d": 81.54,
+            "last_30d": 67.98433333333334,
+            "last_90d": 71.04347058823528,
+            "last_ever": 81.54
         }
     },
     "Five-SeveN | Nitro (Field-Tested)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 52.565,
-            "last_30d": 54.753805555555545,
-            "last_90d": 59.48373148148151,
-            "last_ever": 52.78
+            "last_7d": 53.05087499999999,
+            "last_30d": 54.638173913043474,
+            "last_90d": 58.3761376146789,
+            "last_ever": 51.89
         }
     },
     "Five-SeveN | Nitro (Minimal Wear)": {
         "steam": {
-            "last_24h": 56.0105,
-            "last_7d": 54.00633333333334,
-            "last_30d": 54.597080000000005,
-            "last_90d": 63.39028999999999,
-            "last_ever": 57.12
+            "last_24h": null,
+            "last_7d": 56.33836363636363,
+            "last_30d": 55.590999999999994,
+            "last_90d": 61.72036734693875,
+            "last_ever": 60.757
         }
     },
     "Five-SeveN | Nitro (Well-Worn)": {
         "steam": {
             "last_24h": null,
-            "last_7d": null,
-            "last_30d": 50.966499999999996,
-            "last_90d": 55.221357142857144,
-            "last_ever": 48.626
+            "last_7d": 51.015,
+            "last_30d": 49.49985714285714,
+            "last_90d": 53.429647058823534,
+            "last_ever": 53.2
         }
     },
     "Five-SeveN | Orange Peel (Battle-Scarred)": {
@@ -77603,8 +77603,8 @@
     "Souvenir Five-SeveN | Contractor (Factory New)": {
         "steam": {
             "last_24h": null,
-            "last_7d": 12.7,
-            "last_30d": 19.0075,
+            "last_7d": null,
+            "last_30d": 14.861,
             "last_90d": 18.011000000000003,
             "last_ever": 12.7
         }
@@ -77620,11 +77620,11 @@
     },
     "Souvenir Five-SeveN | Contractor (Minimal Wear)": {
         "steam": {
-            "last_24h": 2.245,
-            "last_7d": 3.2471363636363635,
-            "last_30d": 3.2947790697674417,
-            "last_90d": 3.310486792452829,
-            "last_ever": 2.22
+            "last_24h": 2.653,
+            "last_7d": 2.2189285714285716,
+            "last_30d": 3.2672409638554214,
+            "last_90d": 3.2751161048689132,
+            "last_ever": 1.841
         }
     },
     "Souvenir Five-SeveN | Contractor (Well-Worn)": {
@@ -77773,11 +77773,11 @@
     },
     "Souvenir Five-SeveN | Hot Shot (Battle-Scarred)": {
         "steam": {
-            "last_24h": 3.7013999999999996,
-            "last_7d": 3.93476923076923,
-            "last_30d": 4.600446153846153,
-            "last_90d": 3.434707031250001,
-            "last_ever": 4.29
+            "last_24h": 3.4855,
+            "last_7d": 3.6778947368421058,
+            "last_30d": 3.7882352941176465,
+            "last_90d": 3.7367938931297715,
+            "last_ever": 3.821
         }
     },
     "Souvenir Five-SeveN | Hot Shot (Factory New)": {
@@ -77809,11 +77809,11 @@
     },
     "Souvenir Five-SeveN | Hot Shot (Well-Worn)": {
         "steam": {
-            "last_24h": 3.6076,
-            "last_7d": 3.966620689655172,
-            "last_30d": 3.8497297297297295,
-            "last_90d": 3.2583470437018,
-            "last_ever": 3.763
+            "last_24h": 3.74,
+            "last_7d": 3.7593333333333323,
+            "last_30d": 3.8184062500000002,
+            "last_90d": 3.3209570707070704,
+            "last_ever": 3.52
         }
     },
     "Souvenir Five-SeveN | Midnight Paintover (Battle-Scarred)": {
